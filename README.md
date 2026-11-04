@@ -1,188 +1,188 @@
 TR
+# Neşeli Akademi: Okul Öncesi - Gizlilik Politikası
 
-Neşeli Akademi: Okul Öncesi - Gizlilik Politikası
-Son güncelleme: 15 Ekim 2026
+Son güncelleme: 4 Kasım 2026
 
-Kişisel veri toplamıyoruz. Neşeli Akademi; ad, e-posta, konum, fotoğraf, ses kaydı, cihaz kimliği veya başka herhangi bir kişisel veri toplamaz, saklamaz ve paylaşmaz. Uygulamada hesap oluşturma, giriş yapma veya sohbet bulunmaz.
+**Toplanan bilgiler.** Uygulamada hesap, giriş veya sohbet yoktur. Ad, e-posta, fotoğraf, ses kaydı veya reklam kimliği sunuculara gönderilmez. Aşağıda açıklanan satın alma bilgileri ve RevenueCat’in rastgele oluşturduğu anonim uygulama kullanıcı kimliği işlenir; bu kimliği gerçek kimliğinizle veya cihazdaki çocuk profilleriyle ilişkilendirmeyiz.
 
-Cihazda kalan bilgiler. Oyun ilerlemesi, kazanılan yıldızlar, günlük oynama süresi ve ebeveyn ayarları (dil, ses seviyesi, süre sınırı gibi) yalnızca cihazınızda saklanır ve hiçbir sunucuya gönderilmez. Uygulamayı sildiğinizde bu bilgiler de silinir.
+**Cihazda kalan bilgiler.** Oyun ilerlemesi, kazanılan yıldızlar, günlük oynama süresi ve ebeveyn ayarları (dil, ses seviyesi, süre sınırı gibi) yalnızca cihazınızda saklanır ve hiçbir sunucuya gönderilmez. Uygulamayı sildiğinizde bu bilgiler de silinir.
 
-Satın almalar ve abonelikler. Premium abonelik ödemeleri tamamen Apple tarafından App Store üzerinden işlenir. Ödeme veya kart bilgilerinizi görmeyiz ve saklamayız. Uygulama, aboneliğinizin durumunu ve uygulamayı daha önce satın alıp almadığınızı Apple'ın StoreKit hizmetiyle cihaz üzerinde doğrular. Aboneliğinizi App Store hesap ayarlarınızdan yönetebilir ve iptal edebilirsiniz. Apple'ın bu süreçte işlediği veriler Apple Gizlilik Politikası'na tabidir.
+**Satın almalar ve abonelikler.** Ödemeleri Apple, App Store üzerinden işler; kart bilgilerinizi görmeyiz veya saklamayız. Premium erişim cihazda StoreKit ile doğrulanır. Satın alma geçmişi (ürün, işlem ve abonelik durumu gibi bilgiler), anonim uygulama kullanıcı kimliğiyle RevenueCat’e iletilir; abonelik doğrulama, geri yükleme ve gelir, deneme ve iptal raporları için işlenir. Oyun ilerlemesi ve çocuk profilleri RevenueCat’e gönderilmez. Aboneliğinizi App Store hesap ayarlarınızdan yönetebilir veya iptal edebilirsiniz.
 
-Reklam, analiz ve üçüncü taraflar. Uygulamada reklam, analiz, izleme aracı veya üçüncü taraf yazılım geliştirme kiti (SDK) yoktur. Hiçbir veri üçüncü taraflarla paylaşılmaz veya satılmaz.
+**Üçüncü taraflar ve reklam.** Abonelik altyapısı ve satın alma analizleri için RevenueCat SDK kullanılır. Reklam gösterilmez; reklam amaçlı uygulamalar arası izleme yapılmaz ve veri satılmaz. Kimlik bilgileri veya reklam atıf özellikleri RevenueCat’e aktarılmaz. Ayrıntılar: [RevenueCat Gizlilik Politikası](https://www.revenuecat.com/privacy/) ve [Apple Gizlilik Politikası](https://www.apple.com/legal/privacy/).
 
-Çocukların gizliliği. Uygulama okul öncesi çocuklar için tasarlanmıştır ve çocuklardan bilerek hiçbir kişisel veri toplamaz. Uygulama; KVKK, GDPR ve COPPA gibi çocukların gizliliğini koruyan düzenlemeler gözetilerek hazırlanmıştır.
+**Çocukların gizliliği.** Uygulama okul öncesi çocuklar için tasarlanmıştır. Çocuğun adı, profili, oyun ilerlemesi ve ebeveyn ayarları cihazda kalır. Abonelik verilerini çocuk profilleriyle ilişkilendirmeyiz. Satın almalar ebeveyn doğrulamasıyla korunur. Veri işleme veya silme talepleri için aşağıdaki adresten iletişime geçebilirsiniz; uygulamayı silmek RevenueCat’teki satın alma kayıtlarını kendiliğinden silmez.
 
-Ebeveyn kontrolleri. Satın alma işlemleri, dış bağlantılar ve ebeveyn ayarları ebeveyn doğrulamasının arkasındadır; çocuklar bunlara tek başına ulaşamaz.
+**Ebeveyn kontrolleri.** Satın alma işlemleri, dış bağlantılar ve ebeveyn ayarları ebeveyn doğrulamasının arkasındadır; çocuklar bunlara tek başına ulaşamaz.
 
-Değişiklikler. Bu politika güncellenirse yeni hali bu sayfada yayımlanır ve "Son güncelleme" tarihi değiştirilir.
+**Değişiklikler.** Bu politika güncellenirse yeni hali bu sayfada yayımlanır ve "Son güncelleme" tarihi değiştirilir.
 
-İletişim. Sorularınız için: developer.berkayyalcin@gmail.com
+**İletişim.** Sorularınız için: developer.berkayyalcin@gmail.com
 
 EN
+# Joyful Academy: Preschool - Privacy Policy
 
-Joyful Academy: Preschool - Privacy Policy
-Last updated: October 15, 2026
+Last updated: November 4, 2026
 
-We do not collect personal data. Joyful Academy does not collect, store or share your name, email address, location, photos, voice recordings, device identifiers or any other personal data. The app has no accounts, sign-in or chat.
+**Information processed.** The app has no accounts, sign-in or chat. Names, email addresses, photos, voice recordings and advertising identifiers are not sent to servers. We process the purchase information described below and a randomly generated anonymous RevenueCat app user ID. We do not associate that ID with your real identity or the child profiles on your device.
 
-Information that stays on your device. Game progress, earned stars, daily play time and parent settings (such as language, volume and time limit) are stored only on your device and are never sent to any server. Deleting the app also deletes this information.
+**Information that stays on your device.** Game progress, earned stars, daily play time and parent settings (such as language, volume and time limit) are stored only on your device and are never sent to any server. Deleting the app also deletes this information.
 
-Purchases and subscriptions. Premium subscription payments are processed entirely by Apple through the App Store. We never see or store your payment or card details. The app uses Apple's StoreKit on your device to check your subscription status and whether you previously purchased the app. You can manage or cancel your subscription in your App Store account settings. Any data Apple processes for this is subject to Apple's Privacy Policy.
+**Purchases and subscriptions.** Apple processes payments through the App Store; we never see or store card details. StoreKit verifies Premium access on your device. Purchase history, including product, transaction and subscription status information, is sent to RevenueCat with an anonymous app user ID for subscription validation, restoration and revenue, trial and cancellation reporting. Game progress and child profiles are not sent to RevenueCat. You can manage or cancel subscriptions in your App Store account settings.
 
-Ads, analytics and third parties. The app contains no ads, analytics, tracking or third-party SDKs. No data is shared with or sold to third parties.
+**Third parties and advertising.** We use the RevenueCat SDK for subscription infrastructure and purchase analytics. The app displays no ads, does not track users across apps for advertising and does not sell data. We do not send identifying contact information or enable advertising attribution features in RevenueCat. See [RevenueCat’s Privacy Policy](https://www.revenuecat.com/privacy/) and [Apple’s Privacy Policy](https://www.apple.com/legal/privacy/).
 
-Children's privacy. The app is designed for preschool children and does not knowingly collect any personal data from children. It is built with children's privacy laws such as COPPA and GDPR in mind.
+**Children’s privacy.** The app is designed for preschool children. Child names, profiles, game progress and parent settings stay on the device. Subscription data is not associated with child profiles. Purchases are protected by a parental gate. Contact us below about data processing or deletion; deleting the app does not automatically delete purchase records held by RevenueCat.
 
-Parental controls. Purchases, external links and parent settings are protected by a parental gate, so children cannot reach them on their own.
+**Parental controls.** Purchases, external links and parent settings are protected by a parental gate, so children cannot reach them on their own.
 
-Changes. If this policy changes, the updated version will be published on this page and the "Last updated" date will be revised.
+**Changes.** If this policy changes, the updated version will be published on this page and the "Last updated" date will be revised.
 
-Contact. For questions: developer.berkayyalcin@gmail.com
+**Contact.** For questions: developer.berkayyalcin@gmail.com
 
 DE
+# Fröhliche Akademie: Vorschule - Datenschutzrichtlinie
 
-Fröhliche Akademie: Vorschule - Datenschutzrichtlinie
-Zuletzt aktualisiert: 15. Oktober 2026
+Zuletzt aktualisiert: 4. November 2026
 
-Wir erheben keine personenbezogenen Daten. Fröhliche Akademie erhebt, speichert oder teilt weder Namen, E-Mail-Adressen, Standorte, Fotos, Sprachaufnahmen, Gerätekennungen noch andere personenbezogene Daten. Die App hat keine Konten, keine Anmeldung und keinen Chat.
+**Verarbeitete Daten.** Die App hat keine Konten, Anmeldung oder Chats. Namen, E-Mail-Adressen, Fotos, Sprachaufnahmen und Werbekennungen werden nicht an Server übermittelt. Verarbeitet werden die unten beschriebenen Kaufdaten und eine zufällig erzeugte anonyme RevenueCat-App-Nutzerkennung. Wir verknüpfen diese nicht mit Ihrer Identität oder Kinderprofilen auf dem Gerät.
 
-Daten, die auf dem Gerät bleiben. Spielfortschritt, gesammelte Sterne, tägliche Spielzeit und Elterneinstellungen (z. B. Sprache, Lautstärke und Zeitlimit) werden nur auf Ihrem Gerät gespeichert und niemals an einen Server gesendet. Wenn Sie die App löschen, werden auch diese Daten gelöscht.
+**Daten, die auf dem Gerät bleiben.** Spielfortschritt, gesammelte Sterne, tägliche Spielzeit und Elterneinstellungen (z. B. Sprache, Lautstärke und Zeitlimit) werden nur auf Ihrem Gerät gespeichert und niemals an einen Server gesendet. Wenn Sie die App löschen, werden auch diese Daten gelöscht.
 
-Käufe und Abonnements. Zahlungen für das Premium-Abonnement werden vollständig von Apple über den App Store abgewickelt. Wir sehen und speichern keine Zahlungs- oder Kartendaten. Die App prüft mit Apples StoreKit direkt auf dem Gerät, ob ein Abonnement aktiv ist und ob die App früher bereits gekauft wurde. Sie können Ihr Abonnement in den Einstellungen Ihres App-Store-Kontos verwalten oder kündigen. Daten, die Apple dabei verarbeitet, unterliegen der Datenschutzrichtlinie von Apple.
+**Käufe und Abonnements.** Apple verarbeitet Zahlungen über den App Store; wir sehen oder speichern keine Kartendaten. StoreKit prüft den Premium-Zugang auf dem Gerät. Der Kaufverlauf einschließlich Produkt-, Transaktions- und Abonnementstatus wird mit der anonymen App-Nutzerkennung an RevenueCat übermittelt, um Abonnements zu validieren, Käufe wiederherzustellen und Berichte zu Umsatz, Testphasen und Kündigungen zu erstellen. Spielfortschritt und Kinderprofile werden nicht übermittelt. Abonnements können in den App-Store-Kontoeinstellungen verwaltet oder gekündigt werden.
 
-Werbung, Analyse und Dritte. Die App enthält keine Werbung, keine Analyse- oder Tracking-Tools und keine SDKs von Drittanbietern. Es werden keine Daten an Dritte weitergegeben oder verkauft.
+**Dritte und Werbung.** Wir verwenden das RevenueCat-SDK für die Abonnementinfrastruktur und Kaufanalysen. Es gibt keine Werbung, kein appübergreifendes Werbetracking und keinen Datenverkauf. Identifizierende Kontaktdaten werden nicht an RevenueCat übermittelt; Werbeattribution wird nicht aktiviert. Siehe [RevenueCat-Datenschutzrichtlinie](https://www.revenuecat.com/privacy/) und [Apple-Datenschutzrichtlinie](https://www.apple.com/legal/privacy/).
 
-Datenschutz für Kinder. Die App ist für Kinder im Vorschulalter gedacht und erhebt wissentlich keine personenbezogenen Daten von Kindern. Sie wurde unter Berücksichtigung von Kinderschutzvorschriften wie der DSGVO und COPPA entwickelt.
+**Datenschutz für Kinder.** Die App ist für Vorschulkinder bestimmt. Namen, Profile, Spielfortschritt und Elterneinstellungen bleiben auf dem Gerät. Abonnementdaten werden nicht mit Kinderprofilen verknüpft. Käufe sind durch eine Elternabfrage geschützt. Bei Fragen zur Verarbeitung oder Löschung kontaktieren Sie uns unten. Das Löschen der App löscht nicht automatisch Kaufdaten bei RevenueCat.
 
-Elternkontrolle. Käufe, externe Links und Elterneinstellungen sind durch eine Elternabfrage geschützt, sodass Kinder sie nicht allein erreichen können.
+**Elternkontrolle.** Käufe, externe Links und Elterneinstellungen sind durch eine Elternabfrage geschützt, sodass Kinder sie nicht allein erreichen können.
 
-Änderungen. Wenn sich diese Richtlinie ändert, wird die neue Fassung auf dieser Seite veröffentlicht und das Datum „Zuletzt aktualisiert“ angepasst.
+**Änderungen.** Wenn sich diese Richtlinie ändert, wird die neue Fassung auf dieser Seite veröffentlicht und das Datum „Zuletzt aktualisiert“ angepasst.
 
-Kontakt. Bei Fragen: developer.berkayyalcin@gmail.com
+**Kontakt.** Bei Fragen: developer.berkayyalcin@gmail.com
 
 KO
+# 즐거운 아카데미: 유아 학습 - 개인정보 처리방침
 
-즐거운 아카데미: 유아 학습 - 개인정보 처리방침
-최종 업데이트: 2026년 10월 15일
+최종 업데이트: 2026년 11월 4일
 
-개인정보를 수집하지 않습니다. 즐거운 아카데미는 이름, 이메일 주소, 위치, 사진, 음성 녹음, 기기 식별자 등 어떠한 개인정보도 수집, 저장 또는 공유하지 않습니다. 앱에는 계정, 로그인, 채팅 기능이 없습니다.
+**처리하는 정보.** 앱에는 계정, 로그인, 채팅이 없습니다. 이름, 이메일 주소, 사진, 음성 녹음, 광고 식별자는 서버로 전송되지 않습니다. 아래의 구매 정보와 RevenueCat이 무작위로 생성한 익명 앱 사용자 ID를 처리합니다. 이 ID를 실제 신원이나 기기의 아동 프로필과 연결하지 않습니다.
 
-기기에만 저장되는 정보. 게임 진행 상황, 획득한 별, 하루 이용 시간, 보호자 설정(언어, 음량, 이용 시간 제한 등)은 기기에만 저장되며 어떤 서버로도 전송되지 않습니다. 앱을 삭제하면 이 정보도 함께 삭제됩니다.
+**기기에만 저장되는 정보.** 게임 진행 상황, 획득한 별, 하루 이용 시간, 보호자 설정(언어, 음량, 이용 시간 제한 등)은 기기에만 저장되며 어떤 서버로도 전송되지 않습니다. 앱을 삭제하면 이 정보도 함께 삭제됩니다.
 
-구매 및 구독. 프리미엄 구독 결제는 전적으로 Apple이 App Store를 통해 처리합니다. 당사는 결제 정보나 카드 정보를 보거나 저장하지 않습니다. 앱은 기기에서 Apple의 StoreKit을 사용하여 구독 상태와 이전 앱 구매 여부를 확인합니다. 구독은 App Store 계정 설정에서 관리하거나 취소할 수 있습니다. 이 과정에서 Apple이 처리하는 데이터는 Apple 개인정보 처리방침의 적용을 받습니다.
+**구매 및 구독.** Apple이 App Store를 통해 결제를 처리하며 당사는 카드 정보를 보거나 저장하지 않습니다. StoreKit이 기기에서 프리미엄 이용 권한을 확인합니다. 상품, 거래 및 구독 상태 등의 구매 내역은 익명 앱 사용자 ID와 함께 RevenueCat에 전송되어 구독 확인, 구매 복원, 매출·체험·해지 보고에 사용됩니다. 게임 진행 상황과 아동 프로필은 전송되지 않습니다. App Store 계정 설정에서 구독을 관리하거나 해지할 수 있습니다.
 
-광고, 분석 및 제3자. 앱에는 광고, 분석, 추적 도구 또는 제3자 SDK가 없습니다. 어떠한 데이터도 제3자와 공유하거나 판매하지 않습니다.
+**제3자 및 광고.** 구독 인프라와 구매 분석을 위해 RevenueCat SDK를 사용합니다. 광고 표시, 광고 목적의 앱 간 추적, 데이터 판매는 하지 않습니다. 신원을 식별하는 연락처 정보를 RevenueCat에 보내거나 광고 기여 분석 기능을 활성화하지 않습니다. [RevenueCat 개인정보 처리방침](https://www.revenuecat.com/privacy/) 및 [Apple 개인정보 처리방침](https://www.apple.com/legal/privacy/)을 참고하세요.
 
-아동 개인정보 보호. 이 앱은 미취학 아동을 위해 만들어졌으며 아동으로부터 고의로 개인정보를 수집하지 않습니다. COPPA, GDPR 등 아동 개인정보 보호 법규를 고려하여 개발되었습니다.
+**아동 개인정보 보호.** 앱은 미취학 아동을 위해 설계되었습니다. 아동 이름, 프로필, 게임 진행 상황, 보호자 설정은 기기에만 저장됩니다. 구독 정보를 아동 프로필과 연결하지 않습니다. 구매는 보호자 확인 절차로 보호됩니다. 데이터 처리 또는 삭제 문의는 아래 연락처를 이용해 주세요. 앱 삭제만으로 RevenueCat의 구매 기록이 자동 삭제되지는 않습니다.
 
-보호자 제어. 구매, 외부 링크, 보호자 설정은 보호자 확인 절차로 보호되어 아이 혼자서는 접근할 수 없습니다.
+**보호자 제어.** 구매, 외부 링크, 보호자 설정은 보호자 확인 절차로 보호되어 아이 혼자서는 접근할 수 없습니다.
 
-변경 사항. 이 방침이 변경되면 새로운 내용이 이 페이지에 게시되며 "최종 업데이트" 날짜가 수정됩니다.
+**변경 사항.** 이 방침이 변경되면 새로운 내용이 이 페이지에 게시되며 "최종 업데이트" 날짜가 수정됩니다.
 
-문의. 문의 사항: developer.berkayyalcin@gmail.com
+**문의.** 문의 사항: developer.berkayyalcin@gmail.com
 
 DA
+# Det Glade Akademi: Førskole - Privatlivspolitik
 
-Det Glade Akademi: Førskole - Privatlivspolitik
-Senest opdateret: 15. oktober 2026
+Senest opdateret: 4. november 2026
 
-Vi indsamler ingen personoplysninger. Det Glade Akademi indsamler, gemmer eller deler ikke navn, e-mailadresse, placering, billeder, lydoptagelser, enheds-id'er eller andre personoplysninger. Appen har ingen konti, ingen login og ingen chat.
+**Oplysninger, der behandles.** Appen har ingen konti, login eller chat. Navne, e-mailadresser, billeder, lydoptagelser og reklame-id’er sendes ikke til servere. Vi behandler købsoplysningerne nedenfor og et tilfældigt genereret anonymt RevenueCat-appbruger-id. Det forbindes ikke med din identitet eller børneprofiler på enheden.
 
-Oplysninger, der bliver på enheden. Spilfremskridt, optjente stjerner, daglig spilletid og forældreindstillinger (fx sprog, lydstyrke og tidsgrænse) gemmes kun på din enhed og sendes aldrig til en server. Når du sletter appen, slettes disse oplysninger også.
+**Oplysninger, der bliver på enheden.** Spilfremskridt, optjente stjerner, daglig spilletid og forældreindstillinger (fx sprog, lydstyrke og tidsgrænse) gemmes kun på din enhed og sendes aldrig til en server. Når du sletter appen, slettes disse oplysninger også.
 
-Køb og abonnementer. Betaling for Premium-abonnementet håndteres udelukkende af Apple via App Store. Vi ser og gemmer aldrig dine betalings- eller kortoplysninger. Appen bruger Apples StoreKit på enheden til at kontrollere, om du har et aktivt abonnement, og om du tidligere har købt appen. Du kan administrere eller opsige dit abonnement i indstillingerne for din App Store-konto. Data, som Apple behandler i den forbindelse, er omfattet af Apples privatlivspolitik.
+**Køb og abonnementer.** Apple behandler betalinger via App Store; vi ser eller gemmer ikke kortoplysninger. StoreKit kontrollerer Premium-adgang på enheden. Købshistorik, herunder produkt-, transaktions- og abonnementsstatus, sendes med det anonyme appbruger-id til RevenueCat til abonnementsvalidering, gendannelse og rapporter om omsætning, prøveperioder og opsigelser. Spilfremskridt og børneprofiler sendes ikke. Abonnementer kan administreres eller opsiges i App Store-kontoindstillingerne.
 
-Reklamer, analyse og tredjeparter. Appen indeholder ingen reklamer, analyse- eller sporingsværktøjer eller tredjeparts-SDK'er. Ingen data deles med eller sælges til tredjeparter.
+**Tredjeparter og reklamer.** Vi bruger RevenueCat SDK til abonnementsinfrastruktur og købsanalyse. Appen viser ingen reklamer, sporer ikke på tværs af apps til reklameformål og sælger ikke data. Identificerende kontaktoplysninger sendes ikke til RevenueCat, og reklameattribuering aktiveres ikke. Se [RevenueCats privatlivspolitik](https://www.revenuecat.com/privacy/) og [Apples privatlivspolitik](https://www.apple.com/legal/privacy/).
 
-Børns privatliv. Appen er lavet til børn i førskolealderen og indsamler ikke bevidst personoplysninger fra børn. Den er udviklet med respekt for regler om børns privatliv som GDPR og COPPA.
+**Børns privatliv.** Appen er beregnet til førskolebørn. Børns navne, profiler, spilfremskridt og forældreindstillinger bliver på enheden. Abonnementsdata forbindes ikke med børneprofiler. Køb beskyttes af en forældrekontrol. Kontakt os nedenfor om behandling eller sletning; sletning af appen sletter ikke automatisk købsregistreringer hos RevenueCat.
 
-Forældrekontrol. Køb, eksterne links og forældreindstillinger er beskyttet af en forældrekontrol, så børn ikke kan nå dem på egen hånd.
+**Forældrekontrol.** Køb, eksterne links og forældreindstillinger er beskyttet af en forældrekontrol, så børn ikke kan nå dem på egen hånd.
 
-Ændringer. Hvis denne politik ændres, offentliggøres den nye version på denne side, og datoen for "Senest opdateret" ændres.
+**Ændringer.** Hvis denne politik ændres, offentliggøres den nye version på denne side, og datoen for "Senest opdateret" ændres.
 
-Kontakt. Spørgsmål kan sendes til: developer.berkayyalcin@gmail.com
+**Kontakt.** Spørgsmål kan sendes til: developer.berkayyalcin@gmail.com
 
 NL
+# Vrolijke Academie: Voorschool - Privacybeleid
 
-Vrolijke Academie: Voorschool - Privacybeleid
-Laatst bijgewerkt: 15 oktober 2026
+Laatst bijgewerkt: 4 november 2026
 
-Wij verzamelen geen persoonsgegevens. Vrolijke Academie verzamelt, bewaart of deelt geen naam, e-mailadres, locatie, foto's, spraakopnames, apparaat-ID's of andere persoonsgegevens. De app heeft geen accounts, geen inlog en geen chat.
+**Verwerkte gegevens.** De app heeft geen accounts, login of chat. Namen, e-mailadressen, foto’s, spraakopnamen en advertentie-ID’s worden niet naar servers verstuurd. We verwerken de hieronder beschreven aankoopgegevens en een willekeurig gegenereerde anonieme RevenueCat-appgebruikers-ID. We koppelen die niet aan je identiteit of kinderprofielen op het apparaat.
 
-Gegevens die op je apparaat blijven. Spelvoortgang, verdiende sterren, dagelijkse speeltijd en ouderinstellingen (zoals taal, volume en tijdslimiet) worden alleen op je apparaat bewaard en nooit naar een server verstuurd. Als je de app verwijdert, worden deze gegevens ook verwijderd.
+**Gegevens die op je apparaat blijven.** Spelvoortgang, verdiende sterren, dagelijkse speeltijd en ouderinstellingen (zoals taal, volume en tijdslimiet) worden alleen op je apparaat bewaard en nooit naar een server verstuurd. Als je de app verwijdert, worden deze gegevens ook verwijderd.
 
-Aankopen en abonnementen. Betalingen voor het Premium-abonnement worden volledig door Apple via de App Store afgehandeld. Wij zien of bewaren nooit je betaal- of kaartgegevens. De app gebruikt Apples StoreKit op je apparaat om te controleren of je een actief abonnement hebt en of je de app eerder hebt gekocht. Je kunt je abonnement beheren of opzeggen in de instellingen van je App Store-account. Gegevens die Apple daarbij verwerkt, vallen onder het privacybeleid van Apple.
+**Aankopen en abonnementen.** Apple verwerkt betalingen via de App Store; we zien of bewaren geen kaartgegevens. StoreKit controleert Premium-toegang op het apparaat. Aankoopgeschiedenis, waaronder product-, transactie- en abonnementsstatus, wordt met de anonieme appgebruikers-ID naar RevenueCat gestuurd voor abonnementsvalidatie, herstel en rapporten over omzet, proefperioden en opzeggingen. Spelvoortgang en kinderprofielen worden niet verstuurd. Abonnementen kun je beheren of opzeggen in je App Store-accountinstellingen.
 
-Advertenties, analyse en derden. De app bevat geen advertenties, analyse- of trackingtools en geen SDK's van derden. Er worden geen gegevens gedeeld met of verkocht aan derden.
+**Derden en advertenties.** We gebruiken de RevenueCat SDK voor abonnementsinfrastructuur en aankoopanalyse. De app toont geen advertenties, volgt gebruikers niet tussen apps voor advertenties en verkoopt geen gegevens. We sturen geen identificerende contactgegevens naar RevenueCat en activeren geen advertentietoewijzing. Zie het [privacybeleid van RevenueCat](https://www.revenuecat.com/privacy/) en het [privacybeleid van Apple](https://www.apple.com/legal/privacy/).
 
-Privacy van kinderen. De app is gemaakt voor kinderen in de kleuterleeftijd en verzamelt niet bewust persoonsgegevens van kinderen. Bij de ontwikkeling is rekening gehouden met privacyregels voor kinderen, zoals de AVG en COPPA.
+**Privacy van kinderen.** De app is ontworpen voor kleuters. Namen, profielen, spelvoortgang en ouderinstellingen blijven op het apparaat. Abonnementsgegevens worden niet aan kinderprofielen gekoppeld. Aankopen zijn beschermd door een oudercontrole. Neem hieronder contact op over verwerking of verwijdering; de app verwijderen wist niet automatisch aankoopregistraties bij RevenueCat.
 
-Ouderlijk toezicht. Aankopen, externe links en ouderinstellingen worden beschermd door een oudercontrole, zodat kinderen ze niet zelf kunnen openen.
+**Ouderlijk toezicht.** Aankopen, externe links en ouderinstellingen worden beschermd door een oudercontrole, zodat kinderen ze niet zelf kunnen openen.
 
-Wijzigingen. Als dit beleid verandert, wordt de nieuwe versie op deze pagina gepubliceerd en wordt de datum "Laatst bijgewerkt" aangepast.
+**Wijzigingen.** Als dit beleid verandert, wordt de nieuwe versie op deze pagina gepubliceerd en wordt de datum "Laatst bijgewerkt" aangepast.
 
-Contact. Voor vragen: developer.berkayyalcin@gmail.com
+**Contact.** Voor vragen: developer.berkayyalcin@gmail.com
 
 FR
+# Académie Joyeuse : Préscolaire - Politique de confidentialité
 
-Académie Joyeuse : Préscolaire - Politique de confidentialité
-Dernière mise à jour : 15 octobre 2026
+Dernière mise à jour : 4 novembre 2026
 
-Nous ne collectons aucune donnée personnelle. Académie Joyeuse ne collecte, ne stocke ni ne partage aucun nom, adresse e-mail, localisation, photo, enregistrement vocal, identifiant d'appareil ou autre donnée personnelle. L'application ne comporte ni compte, ni connexion, ni messagerie.
+**Données traitées.** L’application ne comporte ni compte, ni connexion, ni messagerie. Les noms, adresses e-mail, photos, enregistrements vocaux et identifiants publicitaires ne sont pas transmis à des serveurs. Nous traitons les données d’achat décrites ci-dessous et un identifiant anonyme d’utilisateur de l’application généré aléatoirement par RevenueCat. Nous ne le relions ni à votre identité ni aux profils d’enfants sur l’appareil.
 
-Données conservées sur l'appareil. La progression, les étoiles gagnées, le temps de jeu quotidien et les réglages parentaux (langue, volume, limite de temps, etc.) sont enregistrés uniquement sur votre appareil et ne sont jamais envoyés à un serveur. Ces données sont supprimées avec l'application.
+**Données conservées sur l'appareil.** La progression, les étoiles gagnées, le temps de jeu quotidien et les réglages parentaux (langue, volume, limite de temps, etc.) sont enregistrés uniquement sur votre appareil et ne sont jamais envoyés à un serveur. Ces données sont supprimées avec l'application.
 
-Achats et abonnements. Les paiements de l'abonnement Premium sont entièrement traités par Apple via l'App Store. Nous ne voyons ni ne conservons jamais vos informations de paiement ou de carte. L'application utilise StoreKit d'Apple sur l'appareil pour vérifier l'état de votre abonnement et si vous avez déjà acheté l'application auparavant. Vous pouvez gérer ou résilier votre abonnement dans les réglages de votre compte App Store. Les données traitées par Apple à cette occasion sont soumises à la Politique de confidentialité d'Apple.
+**Achats et abonnements.** Apple traite les paiements via l’App Store ; nous ne voyons ni ne conservons les données de carte. StoreKit vérifie l’accès Premium sur l’appareil. L’historique des achats, notamment les produits, transactions et états d’abonnement, est transmis à RevenueCat avec l’identifiant anonyme pour la validation, la restauration et les rapports de revenus, d’essais et de résiliations. La progression et les profils d’enfants ne sont pas transmis. Vous pouvez gérer ou résilier les abonnements dans les réglages du compte App Store.
 
-Publicité, analyse et tiers. L'application ne contient aucune publicité, aucun outil d'analyse ou de suivi et aucun SDK tiers. Aucune donnée n'est partagée avec des tiers ni vendue.
+**Tiers et publicité.** Nous utilisons le SDK RevenueCat pour l’infrastructure des abonnements et l’analyse des achats. L’application n’affiche aucune publicité, ne suit pas les utilisateurs entre applications à des fins publicitaires et ne vend aucune donnée. Nous ne transmettons pas de coordonnées identifiantes à RevenueCat et n’activons pas l’attribution publicitaire. Voir la [politique de RevenueCat](https://www.revenuecat.com/privacy/) et la [politique d’Apple](https://www.apple.com/legal/privacy/).
 
-Confidentialité des enfants. L'application est conçue pour les enfants d'âge préscolaire et ne collecte sciemment aucune donnée personnelle auprès des enfants. Elle a été développée dans le respect des réglementations sur la protection de la vie privée des enfants, telles que le RGPD et la COPPA.
+**Confidentialité des enfants.** L’application est destinée aux enfants d’âge préscolaire. Noms, profils, progression et réglages parentaux restent sur l’appareil. Les données d’abonnement ne sont pas liées aux profils d’enfants. Les achats sont protégés par une vérification parentale. Contactez-nous ci-dessous pour toute demande de traitement ou de suppression ; supprimer l’application ne supprime pas automatiquement les achats enregistrés chez RevenueCat.
 
-Contrôle parental. Les achats, les liens externes et les réglages parentaux sont protégés par une vérification parentale, afin que les enfants ne puissent pas y accéder seuls.
+**Contrôle parental.** Les achats, les liens externes et les réglages parentaux sont protégés par une vérification parentale, afin que les enfants ne puissent pas y accéder seuls.
 
-Modifications. Si cette politique est modifiée, la nouvelle version sera publiée sur cette page et la date de « Dernière mise à jour » sera changée.
+**Modifications.** Si cette politique est modifiée, la nouvelle version sera publiée sur cette page et la date de « Dernière mise à jour » sera changée.
 
-Contact. Pour toute question : developer.berkayyalcin@gmail.com
+**Contact.** Pour toute question : developer.berkayyalcin@gmail.com
 
 LB
+# Lëschteg Akademie: Spillschoul - Dateschutzpolitik
 
-Lëschteg Akademie: Spillschoul - Dateschutzpolitik
-Lescht Aktualiséierung: 15. Oktober 2026
+Lescht Aktualiséierung: 4. November 2026
 
-Mir sammele keng perséinlech Donnéeën. Lëschteg Akademie sammelt, späichert oder deelt keen Numm, keng E-Mail-Adress, keng Plaz, keng Fotoen, keng Stëmmopnamen, keng Apparat-Identifikatiounen an aner perséinlech Donnéeën. D'App huet keng Konten, keen Login a keen Chat.
+**Veraarbecht Donnéeën.** D’App huet keng Konten, kee Login a kee Chat. Nimm, E-Mail-Adressen, Fotoen, Stëmmopnamen a Reklammen-IDe ginn net u Servere geschéckt. Mir veraarbechten déi hei ënnendrënner beschriwwen Akafsdonnéeën an eng zoufälleg generéiert anonym RevenueCat-App-Benotzer-ID. Mir verbannen dës net mat Ärer Identitéit oder Kannerprofiller um Apparat.
 
-Informatiounen, déi um Apparat bleiwen. De Spillfortschrëtt, gewonne Stären, déi deeglech Spillzäit an d'Elteren-Astellungen (z. B. Sprooch, Lautstäerkt an Zäitlimit) ginn nëmmen op Ärem Apparat gespäichert a ginn ni op e Server geschéckt. Wann Dir d'App läscht, ginn dës Informatiounen och geläscht.
+**Informatiounen, déi um Apparat bleiwen.** De Spillfortschrëtt, gewonne Stären, déi deeglech Spillzäit an d'Elteren-Astellungen (z. B. Sprooch, Lautstäerkt an Zäitlimit) ginn nëmmen op Ärem Apparat gespäichert a ginn ni op e Server geschéckt. Wann Dir d'App läscht, ginn dës Informatiounen och geläscht.
 
-Akeef an Abonnementer. D'Bezuelunge fir de Premium-Abonnement ginn integral vun Apple iwwer den App Store ofgewéckelt. Mir gesinn a späicheren ni Är Bezuel- oder Kaartendonnéeën. D'App benotzt Apple säin StoreKit um Apparat, fir ze kontrolléieren, ob Dir en aktiven Abonnement hutt an ob Dir d'App virdru scho kaaft hutt. Dir kënnt Ären Abonnement an den Astellunge vun Ärem App-Store-Kont verwalten oder kënnegen. Donnéeën, déi Apple dobäi veraarbecht, falen ënner d'Dateschutzpolitik vun Apple.
+**Akeef an Abonnementer.** Apple veraarbecht Bezuelungen iwwer den App Store; mir gesinn a späichere keng Kaartendonnéeën. StoreKit kontrolléiert de Premium-Zougang um Apparat. D’Akafshistorik, dorënner Produkt-, Transaktiouns- an Abonnementsstatus, gëtt mat der anonymer App-Benotzer-ID u RevenueCat geschéckt fir Validatioun, Restauratioun a Rapporte iwwer Ëmsaz, Testphasen a Kënnegungen. Spillfortschrëtt a Kannerprofiller ginn net geschéckt. Abonnementer kënnen an den App-Store-Kontoastellunge verwalt oder gekënnegt ginn.
 
-Reklamm, Analyse an Drëttpersounen. D'App enthält keng Reklamm, keng Analyse- oder Tracking-Tools a keng SDKe vun Drëttubidder. Et ginn keng Donnéeë mat Drëttpersoune gedeelt oder verkaaft.
+**Drëttubidder a Reklamm.** Mir benotzen de RevenueCat-SDK fir Abonnementsinfrastruktur an Akafsanalysen. D’App weist keng Reklamm, verfollegt Benotzer net iwwer Apps fir Reklammen a verkeeft keng Donnéeën. Identifizéierend Kontaktdonnéeë ginn net u RevenueCat geschéckt a Reklammenattributioun gëtt net aktivéiert. Kuckt d’[RevenueCat-Dateschutzpolitik](https://www.revenuecat.com/privacy/) an d’[Apple-Dateschutzpolitik](https://www.apple.com/legal/privacy/).
 
-Dateschutz fir Kanner. D'App ass fir Kanner am Spillschoulsalter gemaach a sammelt bewosst keng perséinlech Donnéeë vu Kanner. Si gouf ënner Berécksiichtegung vu Reegelen zum Dateschutz fir Kanner wéi der DSGVO an der COPPA entwéckelt.
+**Dateschutz fir Kanner.** D’App ass fir Spillschoulkanner geduecht. Nimm, Profiller, Spillfortschrëtt an Elterenastellunge bleiwen um Apparat. Abonnementsdonnéeë ginn net mat Kannerprofiller verbonnen. Akeef sinn duerch eng Elterekontroll geschützt. Kontaktéiert eis hei ënnendrënner fir Froen zur Veraarbechtung oder Läschung; d’Läsche vun der App läscht net automatesch Akafsdate bei RevenueCat.
 
-Elterekontroll. Akeef, extern Linken an d'Elteren-Astellunge si mat enger Elterekontroll geschützt, sou datt Kanner se net eleng erreeche kënnen.
+**Elterekontroll.** Akeef, extern Linken an d'Elteren-Astellunge si mat enger Elterekontroll geschützt, sou datt Kanner se net eleng erreeche kënnen.
 
-Ännerungen. Wann dës Politik geännert gëtt, gëtt déi nei Versioun op dëser Säit publizéiert an den Datum vun der „Lescht Aktualiséierung“ ugepasst.
+**Ännerungen.** Wann dës Politik geännert gëtt, gëtt déi nei Versioun op dëser Säit publizéiert an den Datum vun der „Lescht Aktualiséierung“ ugepasst.
 
-Kontakt. Bei Froen: developer.berkayyalcin@gmail.com
+**Kontakt.** Bei Froen: developer.berkayyalcin@gmail.com
 
 NO
+# Det Glade Akademiet: Førskole - Personvernerklæring
 
-Det Glade Akademiet: Førskole - Personvernerklæring
-Sist oppdatert: 15. oktober 2026
+Sist oppdatert: 4. november 2026
 
-Vi samler ikke inn personopplysninger. Det Glade Akademiet samler ikke inn, lagrer eller deler navn, e-postadresse, posisjon, bilder, lydopptak, enhets-ID-er eller andre personopplysninger. Appen har ingen kontoer, ingen innlogging og ingen chat.
+**Opplysninger som behandles.** Appen har ingen kontoer, innlogging eller chat. Navn, e-postadresser, bilder, lydopptak og reklame-ID-er sendes ikke til servere. Vi behandler kjøpsopplysningene nedenfor og en tilfeldig generert anonym RevenueCat-appbruker-ID. Vi kobler ikke denne til identiteten din eller barneprofiler på enheten.
 
-Informasjon som blir på enheten. Spillfremgang, opptjente stjerner, daglig spilletid og foreldreinnstillinger (for eksempel språk, volum og tidsgrense) lagres bare på enheten din og sendes aldri til en server. Når du sletter appen, slettes også denne informasjonen.
+**Informasjon som blir på enheten.** Spillfremgang, opptjente stjerner, daglig spilletid og foreldreinnstillinger (for eksempel språk, volum og tidsgrense) lagres bare på enheten din og sendes aldri til en server. Når du sletter appen, slettes også denne informasjonen.
 
-Kjøp og abonnementer. Betaling for Premium-abonnementet håndteres i sin helhet av Apple via App Store. Vi ser eller lagrer aldri betalings- eller kortopplysningene dine. Appen bruker Apples StoreKit på enheten for å sjekke om du har et aktivt abonnement, og om du har kjøpt appen tidligere. Du kan administrere eller si opp abonnementet i innstillingene for App Store-kontoen din. Data som Apple behandler i denne forbindelse, er underlagt Apples personvernerklæring.
+**Kjøp og abonnementer.** Apple behandler betalinger via App Store; vi ser eller lagrer ikke kortopplysninger. StoreKit kontrollerer Premium-tilgang på enheten. Kjøpshistorikk, inkludert produkt-, transaksjons- og abonnementsstatus, sendes med den anonyme appbruker-ID-en til RevenueCat for validering, gjenoppretting og rapporter om inntekter, prøveperioder og oppsigelser. Spillfremgang og barneprofiler sendes ikke. Du kan administrere eller si opp abonnementer i App Store-kontoinnstillingene.
 
-Reklame, analyse og tredjeparter. Appen inneholder ingen reklame, ingen analyse- eller sporingsverktøy og ingen tredjeparts-SDK-er. Ingen data deles med eller selges til tredjeparter.
+**Tredjeparter og reklame.** Vi bruker RevenueCat SDK til abonnementsinfrastruktur og kjøpsanalyse. Appen viser ingen reklame, sporer ikke brukere på tvers av apper for reklame og selger ikke data. Vi sender ikke identifiserende kontaktopplysninger til RevenueCat eller aktiverer reklameattribusjon. Se [RevenueCats personvernerklæring](https://www.revenuecat.com/privacy/) og [Apples personvernerklæring](https://www.apple.com/legal/privacy/).
 
-Barns personvern. Appen er laget for barn i førskolealder og samler ikke bevisst inn personopplysninger fra barn. Den er utviklet med hensyn til regler om barns personvern, som GDPR og COPPA.
+**Barns personvern.** Appen er laget for førskolebarn. Navn, profiler, spillfremgang og foreldreinnstillinger blir på enheten. Abonnementsdata kobles ikke til barneprofiler. Kjøp er beskyttet av en foreldrekontroll. Kontakt oss nedenfor om behandling eller sletting; sletting av appen sletter ikke automatisk kjøpsregistreringer hos RevenueCat.
 
-Foreldrekontroll. Kjøp, eksterne lenker og foreldreinnstillinger er beskyttet av en foreldrekontroll, slik at barn ikke kan nå dem på egen hånd.
+**Foreldrekontroll.** Kjøp, eksterne lenker og foreldreinnstillinger er beskyttet av en foreldrekontroll, slik at barn ikke kan nå dem på egen hånd.
 
-Endringer. Hvis denne erklæringen endres, publiseres den nye versjonen på denne siden, og datoen for «Sist oppdatert» endres.
+**Endringer.** Hvis denne erklæringen endres, publiseres den nye versjonen på denne siden, og datoen for «Sist oppdatert» endres.
 
-Kontakt. Spørsmål kan sendes til: developer.berkayyalcin@gmail.com
+**Kontakt.** Spørsmål kan sendes til: developer.berkayyalcin@gmail.com
